@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\FindNumInArray\FindNumInArray\bin\Debug\FindNumInArray.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\FindNumInArray\FindNumInArray\bin\Debug\FindNumInArray.exe
+c:\users\dell\documents\visual studio 2015\Projects\FindNumInArray\FindNumInArray\bin\Debug\FindNumInArray.pdb
+c:\users\dell\documents\visual studio 2015\Projects\FindNumInArray\FindNumInArray\obj\Debug\FindNumInArray.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\FindNumInArray\FindNumInArray\obj\Debug\FindNumInArray.exe
+c:\users\dell\documents\visual studio 2015\Projects\FindNumInArray\FindNumInArray\obj\Debug\FindNumInArray.pdb

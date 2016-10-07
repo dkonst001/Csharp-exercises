@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\p637q13\p637q13\bin\Debug\p637q13.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\p637q13\p637q13\bin\Debug\p637q13.exe
+c:\users\dell\documents\visual studio 2015\Projects\p637q13\p637q13\bin\Debug\p637q13.pdb
+c:\users\dell\documents\visual studio 2015\Projects\p637q13\p637q13\obj\Debug\p637q13.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\p637q13\p637q13\obj\Debug\p637q13.exe
+c:\users\dell\documents\visual studio 2015\Projects\p637q13\p637q13\obj\Debug\p637q13.pdb

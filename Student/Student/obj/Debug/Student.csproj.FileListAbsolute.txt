@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\Student\Student\bin\Debug\Student.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Student\Student\bin\Debug\Student.exe
+c:\users\dell\documents\visual studio 2015\Projects\Student\Student\bin\Debug\Student.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Student\Student\obj\Debug\Student.exe
+c:\users\dell\documents\visual studio 2015\Projects\Student\Student\obj\Debug\Student.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
