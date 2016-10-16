@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\targilim_6_4\targilim_6_4\bin\Debug\targilim_6_4.exe.config
+C:\Users\Dell\documents\visual studio 2015\Projects\targilim_6_4\targilim_6_4\bin\Debug\targilim_6_4.exe
+C:\Users\Dell\documents\visual studio 2015\Projects\targilim_6_4\targilim_6_4\bin\Debug\targilim_6_4.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\targilim_6_4\targilim_6_4\obj\Debug\targilim_6_4.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\targilim_6_4\targilim_6_4\obj\Debug\targilim_6_4.exe
+C:\Users\Dell\documents\visual studio 2015\Projects\targilim_6_4\targilim_6_4\obj\Debug\targilim_6_4.pdb
