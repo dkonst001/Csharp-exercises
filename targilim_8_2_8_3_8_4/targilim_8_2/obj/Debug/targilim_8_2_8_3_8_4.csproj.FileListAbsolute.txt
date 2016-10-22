@@ -1,0 +1,9 @@
+C:\Users\Dell\documents\visual studio 2015\Projects\targilim_8_2\targilim_8_2\bin\Debug\targilim_8_2.exe.config
+C:\Users\Dell\documents\visual studio 2015\Projects\targilim_8_2\targilim_8_2\bin\Debug\targilim_8_2.exe
+C:\Users\Dell\documents\visual studio 2015\Projects\targilim_8_2\targilim_8_2\bin\Debug\targilim_8_2.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\targilim_8_2\targilim_8_2\obj\Debug\targilim_8_2_8_3_8_4.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\targilim_8_2\targilim_8_2\obj\Debug\targilim_8_2.exe
+C:\Users\Dell\documents\visual studio 2015\Projects\targilim_8_2\targilim_8_2\obj\Debug\targilim_8_2.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\targilim_8_2_8_3_8_4\targilim_8_2\bin\Debug\targilim_8_2.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\targilim_8_2_8_3_8_4\targilim_8_2\obj\Debug\targilim_8_2.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\targilim_8_2_8_3_8_4\targilim_8_2\obj\Debug\targilim_8_2.pdb
