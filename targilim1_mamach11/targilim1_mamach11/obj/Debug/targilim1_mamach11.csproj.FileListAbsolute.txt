@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\targilim1_mamach11\targilim1_mamach11\bin\Debug\targilim1_mamach11.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\targilim1_mamach11\targilim1_mamach11\bin\Debug\targilim1_mamach11.exe
+c:\users\dell\documents\visual studio 2015\Projects\targilim1_mamach11\targilim1_mamach11\bin\Debug\targilim1_mamach11.pdb
+c:\users\dell\documents\visual studio 2015\Projects\targilim1_mamach11\targilim1_mamach11\obj\Debug\targilim1_mamach11.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\targilim1_mamach11\targilim1_mamach11\obj\Debug\targilim1_mamach11.exe
+c:\users\dell\documents\visual studio 2015\Projects\targilim1_mamach11\targilim1_mamach11\obj\Debug\targilim1_mamach11.pdb

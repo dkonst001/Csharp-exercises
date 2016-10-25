@@ -1,0 +1,8 @@
+c:\users\dell\documents\visual studio 2015\Projects\Targilim1-Maman11\Targilim1-Maman11\bin\Debug\Targilim1-Maman11.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Targilim1-Maman10\Targilim1-Maman11\bin\Debug\Targilim1-Maman11.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Targilim1-Maman10\Targilim1-Maman11\obj\Debug\Targilim1-Maman11.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Targilim1-Maman11\Targilim1-Maman11\obj\Debug\Targilim1-Maman11.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Targilim1-Maman11\Targilim1-Maman11\bin\Debug\Targilim1-Maman11.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Targilim1-Maman11\Targilim1-Maman11\bin\Debug\Targilim1-Maman11.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Targilim1-Maman11\Targilim1-Maman11\obj\Debug\Targilim1-Maman11.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Targilim1-Maman11\Targilim1-Maman11\obj\Debug\Targilim1-Maman11.pdb
