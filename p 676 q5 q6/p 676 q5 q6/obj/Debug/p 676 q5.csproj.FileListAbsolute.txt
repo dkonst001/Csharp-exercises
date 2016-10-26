@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\p 676 q5\p 676 q5\bin\Debug\p 676 q5.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\p 676 q5\p 676 q5\bin\Debug\p 676 q5.exe
+c:\users\dell\documents\visual studio 2015\Projects\p 676 q5\p 676 q5\bin\Debug\p 676 q5.pdb
+c:\users\dell\documents\visual studio 2015\Projects\p 676 q5\p 676 q5\obj\Debug\p 676 q5.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\p 676 q5\p 676 q5\obj\Debug\p 676 q5.exe
+c:\users\dell\documents\visual studio 2015\Projects\p 676 q5\p 676 q5\obj\Debug\p 676 q5.pdb

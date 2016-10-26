@@ -1,0 +1,5 @@
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\p 676 q5 q6\p 676 q5 q6\bin\Debug\p 676 q5.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\p 676 q5 q6\p 676 q5 q6\obj\Debug\p 676 q5.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\p 676 q5 q6\p 676 q5 q6\obj\Debug\p 676 q5.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\p 676 q5 q6\p 676 q5 q6\bin\Debug\p 676 q5.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\p 676 q5 q6\p 676 q5 q6\bin\Debug\p 676 q5.pdb

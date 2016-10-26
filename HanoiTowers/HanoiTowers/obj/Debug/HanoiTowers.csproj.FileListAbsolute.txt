@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\HanoiTowers\HanoiTowers\bin\Debug\HanoiTowers.exe.config
+C:\Users\Dell\documents\visual studio 2015\Projects\HanoiTowers\HanoiTowers\bin\Debug\HanoiTowers.exe
+C:\Users\Dell\documents\visual studio 2015\Projects\HanoiTowers\HanoiTowers\bin\Debug\HanoiTowers.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\HanoiTowers\HanoiTowers\obj\Debug\HanoiTowers.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\HanoiTowers\HanoiTowers\obj\Debug\HanoiTowers.exe
+C:\Users\Dell\documents\visual studio 2015\Projects\HanoiTowers\HanoiTowers\obj\Debug\HanoiTowers.pdb
