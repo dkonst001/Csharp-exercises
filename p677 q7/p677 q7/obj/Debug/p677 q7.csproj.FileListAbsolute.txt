@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\p677 q7\p677 q7\bin\Debug\p677 q7.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\p677 q7\p677 q7\bin\Debug\p677 q7.exe
+c:\users\dell\documents\visual studio 2015\Projects\p677 q7\p677 q7\bin\Debug\p677 q7.pdb
+c:\users\dell\documents\visual studio 2015\Projects\p677 q7\p677 q7\obj\Debug\p677 q7.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\p677 q7\p677 q7\obj\Debug\p677 q7.exe
+c:\users\dell\documents\visual studio 2015\Projects\p677 q7\p677 q7\obj\Debug\p677 q7.pdb
