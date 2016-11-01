@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\p765q2\p765q2\bin\Debug\p765q2.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\p765q2\p765q2\obj\Debug\p765q2.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\p765q2\p765q2\bin\Debug\p765q2.exe
+c:\users\dell\documents\visual studio 2015\Projects\p765q2\p765q2\bin\Debug\p765q2.pdb
+c:\users\dell\documents\visual studio 2015\Projects\p765q2\p765q2\obj\Debug\p765q2.exe
+c:\users\dell\documents\visual studio 2015\Projects\p765q2\p765q2\obj\Debug\p765q2.pdb

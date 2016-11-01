@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\p933q1\p933q1\bin\Debug\p933q1.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\p933q1\p933q1\bin\Debug\p933q1.exe
+c:\users\dell\documents\visual studio 2015\Projects\p933q1\p933q1\bin\Debug\p933q1.pdb
+c:\users\dell\documents\visual studio 2015\Projects\p933q1\p933q1\obj\Debug\p933q1.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\p933q1\p933q1\obj\Debug\p933q1.exe
+c:\users\dell\documents\visual studio 2015\Projects\p933q1\p933q1\obj\Debug\p933q1.pdb
